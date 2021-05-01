@@ -1,2 +1,2 @@
-# Colegio-Cesar-Vallejo
+# ColegioCesarVallejo
 Colegio César Vallejo Pichari
